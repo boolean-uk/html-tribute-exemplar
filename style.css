@@ -2,8 +2,15 @@ body {
   background-color: #fffeee;
 }
 
+h1, h2 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: purple;
+}
+
+
 h1 {
-  font-size: 30px;
+  font-size: 50px;
   color: royalblue;
 }
 
@@ -13,6 +20,7 @@ h2 {
 
 p {
   font-size: 20px;
+  line-height: 2;
 }
 
 img {
